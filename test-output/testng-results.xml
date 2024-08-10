@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-08-08T22:47:38 IST" name="Default suite" finished-at="2024-08-08T22:48:12 IST" duration-ms="34020">
+  <suite started-at="2024-08-10T21:56:05 IST" name="Default suite" finished-at="2024-08-10T21:56:34 IST" duration-ms="28165">
     <groups>
     </groups>
-    <test started-at="2024-08-08T22:47:38 IST" name="Default test" finished-at="2024-08-08T22:48:12 IST" duration-ms="34020">
-      <class name="Testcases.TC002_Search">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.TC002_Search@3ba987b8]" started-at="2024-08-08T22:47:38 IST" name="setup" finished-at="2024-08-08T22:47:43 IST" duration-ms="5465" status="PASS">
+    <test started-at="2024-08-10T21:56:05 IST" name="Default test" finished-at="2024-08-10T21:56:34 IST" duration-ms="28165">
+      <class name="Testcases.TC_003Addtocart">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testcases.TC_003Addtocart@3ba987b8]" started-at="2024-08-10T21:56:05 IST" name="setup" finished-at="2024-08-10T21:56:09 IST" duration-ms="3279" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Home()[pri:0, instance:Testcases.TC002_Search@3ba987b8]" started-at="2024-08-08T22:47:43 IST" name="Home" finished-at="2024-08-08T22:48:11 IST" duration-ms="28121" status="PASS">
+        <test-method signature="Home()[pri:0, instance:Testcases.TC_003Addtocart@3ba987b8]" started-at="2024-08-10T21:56:09 IST" name="Home" finished-at="2024-08-10T21:56:33 IST" duration-ms="24490" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Home -->
-        <test-method is-config="true" signature="close()[pri:0, instance:Testcases.TC002_Search@3ba987b8]" started-at="2024-08-08T22:48:11 IST" name="close" finished-at="2024-08-08T22:48:12 IST" duration-ms="353" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:Testcases.TC_003Addtocart@3ba987b8]" started-at="2024-08-10T21:56:33 IST" name="close" finished-at="2024-08-10T21:56:34 IST" duration-ms="318" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- Testcases.TC002_Search -->
+      </class> <!-- Testcases.TC_003Addtocart -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
